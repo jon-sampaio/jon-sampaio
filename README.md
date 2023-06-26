@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jon-sampaio
-- Junior Full Stack Developer
+  *Junior Full Stack Developer
 - 📫 How to reach me
   jonrsamp@gmail.com
 
