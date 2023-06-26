@@ -2,7 +2,7 @@
 Junior Full Stack Developer
 - 📫 How to reach me jonrsamp@gmail.com
 
-  I collaborated on Bandup project 
+  I collaborated on Bandup project - https://github.com/LH7z/the_band_up
 
 📫 How to reach me jonrsamp@gmail.com
 
