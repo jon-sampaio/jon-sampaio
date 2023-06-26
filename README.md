@@ -2,7 +2,8 @@
                                                      
                                                       Junior Full Stack Developer
                                                     
-I collaborated on Bandup project - https://github.com/LH7z/the_band_up
+I collaborated on Bandup project - https://github.com/LH7z/the_band_up /
+https://band-up.herokuapp.com/
 
 📫 How to reach me - jonrsamp@gmail.com
 
